@@ -1,0 +1,120 @@
+/*Style.css*/
+html,
+body{
+    height: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+    font-weight: 500;
+
+}
+
+img{
+
+    max-width: 100%;
+
+}
+
+h1.display-3{
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+}
+
+/*cover*/
+
+#cover{
+    background: url("dist/img/stars.jpg") center,center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align : center;
+    display: flex;
+    align-items: center;
+
+}
+
+#cover-caption{
+    width: 100%;
+}
+
+.form-sub{
+    padding: 20px, auto;
+
+}
+
+#form{
+    display: block;
+    text-align: center;
+}
+.card-group{
+    text-align: center;
+}
+
+#what-we-do{
+    padding: 80px 0px;
+}
+
+.card-block{
+    padding: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+    font-weight: 400;
+}
+
+#about{
+    background: url("dist/img/girlincar.jpg") center center no-repeat;
+    background-size: cover;
+    padding: 80px 0px;
+
+
+}
+
+h3{
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+}
+
+.about-text{
+    background: #000000CC;
+    color: white;
+    padding: 30px;
+}
+
+#news{
+    padding: 80px 0px;
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+}
+
+#section-content{
+    padding: 80px 0px;
+}
+
+.lead{
+    font-size: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+    margin: 0px 0px 16px;
+}
+
+#about-heading{
+    font-family: "Helvetica Neue",Helvetica,Arial, sans-serif;
+}
+
+#News{
+    padding: 80px 0px;
+}
+
+#Warning-Card{
+    color: white;
+
+}
+
+#card-img-top{
+    background: center center;
+    height: 400px;
+
+}
+#news-card-1{
+    height: 180px;
+}
+
+#footer-main{
+    color: white;
+    background: #222;
+    font-size: 0.8rem;
+    padding: 40px 0px;
+}
